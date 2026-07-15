@@ -2,7 +2,7 @@
 // VECTOR IMAGE PATH SCRIPT: HIGH-DETAIL PORTRAIT SWEEP (SHIFTED DOWN 10cm)
 // Scaled 20cm across | Centered horizontally | Shifted 100mm down on Y
 // Layout Envelope Bounds: X: 210 to 410, Y: 400 to 600
-test drawing
+test drawing - this is another update
 // =================================================================
 
 // --- LEFT EYE OUTLINE & DETAIL ---
